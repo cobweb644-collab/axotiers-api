@@ -1,2 +1,0 @@
-# axotiers-api
-axotiers api
